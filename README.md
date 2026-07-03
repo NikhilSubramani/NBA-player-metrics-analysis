@@ -35,7 +35,10 @@ conservative but more precise.
 Python, pandas, scikit-learn, matplotlib, seaborn
 
 ## Structure
+```
 ├── data/               # Raw CSVs (not tracked)
 ├── notebooks/
 │   └── 01_eda.ipynb   # Full analysis
 └── results/            # Output visualisations
+```
+Link to the Python notebook file: https://github.com/NikhilSubramani/NBA-player-metrics-analysis/blob/main/NBA-player-analysis/Notebooks/initial-eda.ipynb
