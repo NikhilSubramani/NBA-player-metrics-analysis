@@ -41,4 +41,7 @@ Python, pandas, scikit-learn, matplotlib, seaborn
 │   └── 01_eda.ipynb   # Full analysis
 └── results/            # Output visualisations
 ```
+## Data
+Download from [Kaggle](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats) 
+and place CSVs in the `data/` folder. Not tracked due to file size.
 Link to the Python notebook file: https://github.com/NikhilSubramani/NBA-player-metrics-analysis/blob/main/NBA-player-analysis/Notebooks/initial-eda.ipynb
